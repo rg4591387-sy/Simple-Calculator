@@ -21,3 +21,4 @@ It performs basic arithmetic operations such as addition, subtraction, multiplic
 4. Run the program using Python.
 
 ## GitHub Repository
+https://github.com/rg4591387-sy/Simple-Calculator.git
